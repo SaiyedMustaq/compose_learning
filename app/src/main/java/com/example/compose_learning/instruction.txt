@@ -1,0 +1,4 @@
+//TODO 1 Create a sealed class for BottomNavItem and set landing rout for app.
+//TODO 2 Create a const file for app route.
+//TODO 3 Create a data class BottomNavigationItem to accept some argument like title,icon,routs and create one function get fetch the bottom nav item in list.
+//TODO 3
